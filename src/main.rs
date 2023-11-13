@@ -1,4 +1,4 @@
-use network::network::Network;
+use network::Network;
 
 extern crate network;
 fn main() {
