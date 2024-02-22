@@ -34,7 +34,7 @@ checksum = "9c198f91728a82281a64e1f4f9eeb25d82cb32a5de251c6bd1b5154d63a8e7bd"
 [[package]]
 name = "network"
 version = "0.1.0"
-source = "git+https://github.com/DmitriyYankovskiy/Rust_ML.git#69e2f23d13e316b353366bd793e71e5e2bd968ab"
+source = "git+https://github.com/DmitriyYankovskiy/Rust_ML.git#da2e2f211de829550fc78134e4d3357c4c5186f5"
 dependencies = [
  "rand",
  "serde",
